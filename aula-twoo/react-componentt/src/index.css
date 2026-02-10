@@ -1,0 +1,24 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+
+}
+
+img {
+    display: block;
+}   
+
+.img {
+    max-width: 50%;
+    height: auto;
+}
+TextButton {
+    padding: 8px 14px;
+    border: 1px solid #ccc;
+    border-radius: 20px;
+    background-color: #ff0202;
+    color: #f11c00 ;
+    cursor: pointer;
+}
